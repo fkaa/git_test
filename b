@@ -1,3 +1,3 @@
-bar
+barfoo
 
 more bar
